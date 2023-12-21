@@ -1,1 +1,1 @@
-# JS
+# JS Constructor
