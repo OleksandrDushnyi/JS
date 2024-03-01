@@ -1,1 +1,1 @@
-#This project generates memes
+This project generates memes
